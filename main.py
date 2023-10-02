@@ -1,5 +1,16 @@
 import random
 
+'''
+RULES:
+
+1. Review the spread for each teams regular season point total. 
+
+2. Pick one team from each division that you think will beat their spread. Select the 'RIDE' dropdown for all four teams
+3. Pick a Canadian team that you think will beat their spread. Select the 'RIDE' dropdown.
+4. Pick one team in the league that you think will miss their spread. Select the 'DIE' dropdown.
+
+5. You should have five 'RIDE' teams and one 'DIE' team. As seen to left. Every division should have at least one 'RIDE' team. In the division that has two 'RIDE' teams, there should be a Canadian team.
+'''
 
 atlantic = [
     "Buffalo Sabres",
